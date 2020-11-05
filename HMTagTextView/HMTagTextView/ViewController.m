@@ -20,8 +20,6 @@
     self.view.backgroundColor = [UIColor lightGrayColor];
     TagLabelText *textV = [[TagLabelText alloc]initWithFrame:CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height)];
     [self.view addSubview:textV];
-    
-    
 }
 
 
